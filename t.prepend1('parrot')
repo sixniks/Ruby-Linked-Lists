@@ -1,0 +1,12 @@
+=> 
+[32m#<LinkedList:0x00007f56dabbedc8[0m
+ @head[32m=[0m
+  [32m#<Node:0x00007f56dabbea80[0m
+   @next_node[32m=[0m[32m#<Node:0x00007f56dabbecd8[0m @next_node[32m=[0m[36m[1mnil[0m, @value[32m=[0m[31m[1m"[0m[31mdog[0m[31m[1m"[0m[32m>[0m,
+   @value[32m=[0m[31m[1m"[0m[31mcat[0m[31m[1m"[0m[32m>[0m,
+ @index[32m=[0m[34m[1m2[0m,
+ @newNode[32m=[0m
+  [32m#<Node:0x00007f56dabbea80[0m
+   @next_node[32m=[0m[32m#<Node:0x00007f56dabbecd8[0m @next_node[32m=[0m[36m[1mnil[0m, @value[32m=[0m[31m[1m"[0m[31mdog[0m[31m[1m"[0m[32m>[0m,
+   @value[32m=[0m[31m[1m"[0m[31mcat[0m[31m[1m"[0m[32m>[0m,
+ @tail[32m=[0m[32m#<Node:0x00007f56dabbecd8[0m @next_node[32m=[0m[36m[1mnil[0m, @value[32m=[0m[31m[1m"[0m[31mdog[0m[31m[1m"[0m[32m>[0m[32m>[0m
